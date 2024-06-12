@@ -3,9 +3,9 @@
 - 🌱 Estudando HTML, CSS, Javascript, Nodejs, Typescript.
 - 📫 Contate-me no email: rafrael.go12@hotmail.com ou rafraelgoo@gmail.com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelElsuke&show_icons=true&theme=radical)
+<img align="left" src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="400" height="350"/>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="300" height="250"/>
     <h1 align="center"> Tecnologias</h1>
    <p>
   <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
