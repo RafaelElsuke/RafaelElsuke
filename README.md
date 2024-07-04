@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="300"/>
-    <h1 align="center"> Tecnologias</h1>
+    <h1 align="center"> Estudando:</h1>
    <p>
   <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
