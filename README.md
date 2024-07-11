@@ -20,6 +20,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  height="36" alt="Figma" />
+       
 </p>
 <h2>Contate-me:<br>
   <a href = "https://twitter.com/RafaelRafraelgo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
