@@ -1,6 +1,6 @@
 ## OLÁ!👋 Eu sou Rafael Rodrigues
-- 🔭 Estou Cursando Analise e desenvlvimento de Sistemas na Universidade catolica de Brasilia.
-- 🌱 Estudando HTML, CSS, Javascript, Nodejs, Typescript.
+- 🔭 Formado em Analise e desenvlvimento de Sistemas na Universidade catolica de Brasilia.
+- 🌱 Estudando HTML, CSS, Javascript, Nodejs, Typescript e php.
 - 📫 Contate-me no email: rafrael.go12@hotmail.com / rafraelgoo@gmail.com / rafraelgo@hotmail.com
 <br/>
     <a href="https://github.com/RafaelElsuke/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=RafaelElsuke&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
